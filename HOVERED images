@@ -30,6 +30,7 @@
 .image-container img {
   width: 100%;
   height: auto;
+  <!-- Add POSITION: Relative; kung gusto mo ma position gamit top or bottom -->
 }
 
 .image-container:hover {

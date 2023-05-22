@@ -1,0 +1,39 @@
+<section class="hero">
+  <div class="hero-body">
+    <div class="container has-text-centered" style="max-width: 2000px;">
+      <p class="title" style="font-size: 22px;">
+        Help is here. Whenever and however you need it.
+      </p>
+      <br>
+
+      <div class="columns is-centered" style="gap: 10px;">
+        <div class="column is-3-desktop image-container">
+          <strong style="float: left;">Need Technical help?</strong><br>
+          <p style="font-size: 15px; color: rgb(57, 57, 227); text-align: left;">Ask a Specialist</p>
+          <p style="text-align: left;">Frontend Dev / Ui Designer</p>
+          <img src="/images/edit1.png" alt="">
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</section>
+
+<style>
+.image-container {
+  border: 1px solid white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transition: border-width 0.3s, box-shadow 0.3s;
+}
+
+.image-container img {
+  width: 100%;
+  height: auto;
+}
+
+.image-container:hover {
+  border-width: 2px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+</style>

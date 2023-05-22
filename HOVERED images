@@ -38,3 +38,10 @@
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 </style>
+
+<!--Ang problem sa code na ito ay kapag gumagamit ng transparent na image tapos 
+gusto natin iposition, kapag naka position na sa desktop version okay, pero kapag n
+asa responsive version like mobile and tablet ay bumabalik itong image sa normal 
+position na parang hindi din ginamit ang bottom to top na styling -->
+
+<!-- maganda lang siya gamitin sa mga image na meron talagang background -->
